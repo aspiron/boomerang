@@ -33,7 +33,7 @@ like(count)
 unlike(count)
 
 
-search //ro`yxat count va title bo`yicha
+search //royxat count va title boyicha
 searchbyTitle // %a%
 getall()
 getbycountry()
